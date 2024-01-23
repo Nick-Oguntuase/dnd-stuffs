@@ -1,0 +1,1 @@
+Osmonia is a world of [[floating islands]] and [[pirates]]. Each island is separated by the endless void. 

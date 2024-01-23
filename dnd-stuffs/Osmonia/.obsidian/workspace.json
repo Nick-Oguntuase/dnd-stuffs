@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "0bb616229aa898da",
+    "type": "split",
+    "children": [
+      {
+        "id": "571bfb7391642ed8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71d4aea9ab3ac2de",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69d6da5f5a2c677d",
+    "type": "split",
+    "children": [
+      {
+        "id": "957d7a67f7a69731",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db4d26aa624402cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de5c5644a09395fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c54eadeb1981c6c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43311669d1cb098e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cca66c2de8d7800",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9824e3326c25ad0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "101bfabc21be10c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb7042e99533d035",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "584f3b3b3d961938",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "71d4aea9ab3ac2de",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "floating islands.md",
+    "pirates.md",
+    "General World.md",
+    "islands/Uur.md",
+    "2023-05-08.md",
+    "islands/floating islands.md",
+    "islands",
+    "floating islands/UUR.md",
+    "floating islands"
+  ]
+}
